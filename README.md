@@ -13,7 +13,7 @@ Comments:
 
 ### Confusion Matrix
 
-![plot]("illustration/confusion matrix.PNG")
+![plot](illustration/confusion_matrix.PNG)
 
 
 
