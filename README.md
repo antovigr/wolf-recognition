@@ -9,7 +9,7 @@ Comments:
 
 ### Accuracy graph through epochs
 
-![plot](./illustration/accuracy.png)
+![plot](illustration/accuracy.png)
 
 
 
