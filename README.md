@@ -11,6 +11,10 @@ Comments:
 
 ![plot](illustration/accuracy.PNG)
 
+### Confusion Matrix
+
+![plot](illustration/confusion matrix.PNG)
+
 
 
 to-do:
