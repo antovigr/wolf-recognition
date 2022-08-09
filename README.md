@@ -11,3 +11,4 @@ Comments:
 
 to-do:
 - add suppression of images in temp_img on close of the app / or refresh
+- finish the readme
