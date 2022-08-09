@@ -7,6 +7,10 @@ Comments:
 
 ### Precision: 97%
 
+### Accuracy graph through epochs
+
+![alt text](https://github.com/[Banana1008]/[wolf-recognition]/blob/[illustration]/accuracy.jpg?raw=true)
+
 
 
 to-do:
