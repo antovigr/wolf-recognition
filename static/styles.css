@@ -1,0 +1,53 @@
+body{
+	text-align:center;
+	font:15px/1.5 Arial, Helvetica,sans-serif;
+	padding: 0px;
+	background-color:#f4f3f3;
+}
+
+
+header{
+	background: #5C8001;#5C8001;
+	border-bottom:#5C8001 3px solid;
+	height:120px;
+	width:100%;
+	padding-top:30px;
+
+}
+
+label{
+	color:#5C8001
+}
+
+.ml-container{
+	padding-top: 50px
+}
+
+header h2{
+	text-align:center;
+	color:#fff;
+
+}
+
+
+
+.btn {background-color: #5C8001;
+	height:40px;
+	width:100px;} /* Blue */
+.btn:hover {background: #093824;}
+
+
+.resultss{
+	border-radius: 15px 50px;
+    background: #345fe4;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+}
+
+
+/* Resize images */
+.container2 img {
+    width: 40%;
+    height: auto;
+}
